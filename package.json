@@ -1,0 +1,11 @@
+{
+  "name": "Game-of-characters-Node",
+  "version": "0.0.1",
+  "description": "A simple RESTful API example using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Code Like Ninja",
+  "license": "ISC"
+}
